@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Priscila Hilario Souza
+# 👋 Olá, eu sou Priscila!
 
 🎯 **Profissional de TI focada em Dados e Cloud**  
 💡 Apaixonada por aprender continuamente e aplicar **Python, SQL, Machine Learning e IA Generativa** em projetos práticos.  
